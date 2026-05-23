@@ -18,7 +18,7 @@ import {
   ArrowRight,
 } from 'lucide-react';
 
-const phone = '647-555-0199'; // Replace with your real forwarding number before publishing
+const phone = '647-204-4200'; // Replace with your real forwarding number before publishing
 const businessEmail = 'havenlockandkey@gmail.com'; // Replace with your real business email
 
 const serviceAreas = [
